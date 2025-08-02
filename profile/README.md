@@ -1,4 +1,8 @@
 ## An experimental playground for my personal tech projects.
+#### Working time(Monday to Sunday):
+- 8:00 am ~ 12:00 pm 
+- 13:00 pm ~ 17:00 pm
+- 18:00 pm ~ 22:00 pm
 
 <!--
 
