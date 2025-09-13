@@ -1,4 +1,4 @@
-## An experimental playground for my personal tech projects.
+## An experimental playground for my personal tech projects (Homelab).
 #### Working time(Monday to Sunday):
 - 8:00 am ~ 12:00 pm 
 - 13:00 pm ~ 17:00 pm
